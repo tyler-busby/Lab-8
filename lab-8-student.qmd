@@ -1,3 +1,11 @@
+---
+title: "Lab 8: Fish and Functions"
+author: "Tyler Busby"
+date: "5/8/25"
+format: md
+editor: source
+---
+
 The goal of this lab is learn more about exploring missing data and writing
 modular code.
 
